@@ -1,0 +1,239 @@
+@media only screen and (max-width: 1199px) {
+    .features_sec{padding: 80px 0 80px 0;}
+    .we_do_sec .write_block .write{ font-size: 22px;}
+    .home_banner .image_block .banner_text_b{padding: 40px 70px;}
+    
+    .home_banner .image_block .banner_text_b h2{ font-size: 55px; line-height: 1.8;}
+    
+    
+    .ace-responsive-menu > li > a{padding: 12px 10px 12px 10px;}
+	
+	.home_gallery_sec .img_block .block img{height: 250px;}
+	.vs-service-grid .serivce-img > img{height: 215px;}
+	
+}
+@media only screen and (max-width: 991px) {
+    .client_sec .map_img{ margin-top: 20px;}
+    .we_do_sec .write_block {
+    margin: 60px 0 0 0;
+}
+    .home_banner .image_block .banner_text_b{max-width: 440px;}
+    .home_banner .image_block .banner_text_b .button {
+    margin-top: 20px;
+}
+    .home_banner .image_block .banner_text_b{padding: 40px 70px;}
+    
+    .home_banner .image_block .banner_text_b h2{ font-size: 40px; line-height: 1.8;}
+    
+    
+	
+	.home_banner .owl-carousel .full_banner{height: 500px;}
+	
+	
+	
+	.header_block .quote-btn {  margin: 0px 0 0 15px;}
+	
+	.header_block .logo{margin: 3px 0 0 0;}
+	
+	.feature_box{ margin: 25px 0 0 0;}
+	
+	
+    
+    footer h2{ font-size: 18px;}
+    footer .social_icons li{ margin: 5px 5px 5px 0;}
+    .section{ padding: 60px 0;}
+    .contact_page .contact_info{ margin-bottom: 30px; height: auto;}
+    .gallery_sec .block img{ height: 110px;}
+    .service_sec_inner .services_block .image_b img{height: 140px;}
+	
+}
+@media only screen and (max-width: 767px) {
+    .we_do_sec .what_box{padding: 40px 25px;}
+    .client_sec .map_img{ height: auto;}
+    .features_sec .fe_block {
+    margin-bottom: 30px;
+}
+    
+    
+    .customer_sec .clients_wra .block{-ms-flex: 0 0 20%;
+flex: 0 0 20%;
+max-width: 20%;}
+    .case_block{ margin-bottom: 30px;}
+    
+    .home_banner .image_block .banner_text_b{ position: static; text-align: center;
+max-width: 100%; background: #f4fbfd; margin-top: 20px;
+padding: 20px 20px;}
+    .home_banner .image_block .banner_text_b h2 {font-size: 32px;
+line-height: 1.5;}
+    
+    
+    .ace-responsive-menu > li.active > a::before, .ace-responsive-menu > li > a:hover::before {
+    width: 100%;
+}
+    .ace-responsive-menu > li > a::before{left: 0; -webkit-transform: translateX(0%);
+-moz-transform: translateX(0%);
+transform: translateX(0%);}
+    .header_block nav .ace-responsive-menu{ margin: 15px 0 20px 0;
+position: absolute;
+z-index: 10;
+top: 69px;
+width: 100%;
+left: 0;}
+    .ace-responsive-menu{ background: #2f2f2e;}
+    .ace-responsive-menu > li > a {padding: 8px 15px 8px 15px; color: #fff;}
+	
+	.home_gallery_sec .nav-tabs .btn{padding: 4px 12px;}
+	
+	
+	.tm-funfact-area .box-counter{ margin: 15px 0;}
+	
+	
+	
+/*.home_banner .owl-carousel .full_banner{ height:400px;}	
+.home_banner .services_wrapper{ position:static; padding:40px 0;}
+.home_banner .services_wrapper .box{background: #f4f4f4; }
+.home_banner .services_wrapper .title{ color:#333; font-size:40px;}*/
+    .gallery_sec .block img{ height: 200px;}
+    .service_sec_inner .services_block .image_b img{height: 160px;}
+    
+    .image_about{ margin: 55px 0 0 0;}
+    .works_sec .row .colum{ margin-bottom: 80px;}
+    .works_sec .row .colum:last-child{ margin: 0;}
+    .header_block .quote-btn{ position: relative;}
+    footer{ background-image: none;}
+.sc_item{ margin:0 0 50px 0;}
+.about_sec{ background:#f7f7f7 ;}
+.home_banner .services_wrapper .box{margin-bottom:30px;}
+.counter_wrapper .box-counter{ margin-bottom:30px;}
+.team_section .Who-We-Are_b{ margin-bottom:30px;}
+.posts_sec .blogger_item{ margin-bottom:30px;}
+.f_services_sec .block{ margin-bottom:30px;}
+.trust_sec .abot_block_text{ margin-bottom:30px;}
+footer .top .column{ margin-bottom:30px;}
+
+header .top-section .right li .address-links a .text{ display:none;}
+header .top-section .social_icons li{margin: 0 4px 0 0;}
+header .top-section .social_icons li a{line-height: 28px;width: 28px}
+header .top-section .colum{ width:50%;}
+header .top-section .right li .address-links a{ margin:0 0; padding:2px 10px;}
+.header_block{padding: 0px 0px}
+
+.header_block nav{ float:left !important; margin: -56px 0 0 0;}
+
+.menu-toggle #menu-btn{margin: 8px 0 0 0;}
+.header_block .login_m{ display:block;}
+.home_banner .services_wrapper{top: 20%;}
+.ace-responsive-menu > li > a{padding: 8px 8px 8px 8px; font-size:15px; color: #fff;}
+.ace-responsive-menu > li > a:hover span.title::before, .ace-responsive-menu > li.select > a span.title::before{ display:none;}
+.home_banner .services_wrapper .title{ font-size:35px;}
+.home_banner .services_wrapper .box{ padding:10px 10px;}
+.home_banner .services_wrapper .box figure img { width: 40px;}
+.home_banner .services_wrapper .box figure { margin: 0 0 8px 0;}
+.home_banner .services_wrapper .box h3 {font-size: 17px;margin: 0 0 10px 0;}
+.home_banner .services_wrapper .box .button{ font-size:14px;}
+header .top-section .right li .address-links a.login_o{ display:none;} 
+.ace-responsive-menu{ margin:25px 0 0 0;}
+
+}
+
+@media only screen and (max-width: 576px) {
+    .home_banner .carousel-caption .heading{ font-size: 40px;} 
+    .testimonial_sec .shape,.about_sec .shape{ display: none;}
+    .image_about::before{ display: none;}
+    .image_about { margin: 30px 0 0 0;}
+    .testimonial_sec .owl-carousel .owl-dots .owl-dot span{ margin: 5px 2px;}
+     .service_sec_inner .services_block .image_b img{height: auto;}
+    
+    
+}
+
+
+
+
+@media only screen and (max-width: 480px) {
+    .we_do_sec .write_block .write::after{width: 40px; border-radius: 42px;}
+    .we_do_sec .write_block .write{font-size: 17px;line-height: 45px;
+height: 50px;padding-left: 51px; border-radius: 40px}
+    .main_header .container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+    .home_banner .container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+    .counter_block h3 {
+    font-size: 30px;
+    }
+    .counter_block p {
+        font-size: 16px;}
+
+    
+    .section .sc_title{ font-size: 35px;}
+    .we_do_sec .form_sec{margin: 50px 0 0 0;}
+    .we_do_sec .what_box{ margin: 0 0 40px 0;}
+
+	
+	.home_banner .owl-carousel .full_banner {height: 400px;}
+	.button{padding: 6px 18px;}
+	
+	
+	.header_block .quote-btn .button{padding: 4px 7px;}
+    .gallery_sec .block img {
+    height: 110px;
+}
+    .home_banner .carousel-caption .heading {font-size: 30px;}
+    .home_banner .carousel-caption .block p { font-size: 16px;}
+    .home_banner .carousel-caption .sub_headin{ font-size: 20px;}
+    .services_sec .owl-theme .owl-dots .owl-dot span{ margin: 5px 2px; }
+    .testimonial{ padding: 40px 20px;}
+    .testimonial .quote_text::before{font-size: 40px; top: -22px;left: -13px;}
+    .testimonial .quote_text::after{bottom: -22px;right: -13px;font-size: 40px;}
+    .testimonial .testimonial-title{ font-size: 16px;}
+
+    .heading_t .sc_title{ font-size: 30px;}
+.team_section .team_block .image{ float:none; margin:0 auto;}
+.team_section .team_block .image img{padding: 4px;background-color:#fff;border: 1px solid #ddd;
+border-radius: 4px;}
+.team_section .team_block .text_block{ margin:20px 0 0 0; padding:0; text-align:center;}
+.home_banner .services_wrapper .row .colum:nth-child(1),
+.home_banner .services_wrapper .row .colum:nth-child(3){ padding-right:0;}
+.home_banner .services_wrapper .box { margin-bottom: 15px;}
+.home_banner .services_wrapper .title{font-size: 30px; margin: 0 0 20px 0}
+.home_banner .services_wrapper { top: 25%;}
+.counter_wrapper .box-counter .icon{font-size: 25px; width: 50px; height: 50px; border: 1px solid;line-height: 50px;}
+.counter_wrapper .box-counter .counter{font-size: 26px;}
+.counter_wrapper .box-counter .box-header{font-size: 18px;}
+.counter_wrapper .box-counter{ padding:10px 10px;}
+.sc_title{ font-size:30px;}
+.section{ padding:40px 0;}
+.back-to-top.affix{ display:none;}
+    .we_do_sec{ padding: 80px 0;}
+    .we_do_sec .what_box .titel{ font-size: 40px;}
+    .customer_sec .clients_wra .block {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+    .customer_sec .clients_wra .block{ margin: 5px 0;}
+    .client_sec .titel{ font-size: 35px;}
+    .fe_block .icon{width: 50px;}
+    .fe_block .text_block {
+    padding: 0 0 0 72px;
+}
+	
+}
+
+@media only screen and (max-width: 420px) {
+    .header_block .quote-btn{margin: 0px 0 0 15px;}
+    
+	.header_block .logo {}
+	.header_block .login_m{margin: 0px 0 0 0;} 
+	
+    .gallery_sec .column{ -ms-flex: 0 0 100%;
+flex: 0 0 100%;
+max-width: 100%;}
+    .gallery_sec .block img{ height: auto;}
+
+	
+	}
