@@ -13,6 +13,22 @@
 	
 }
 @media only screen and (max-width: 991px) {
+   .section{ padding: 60px 0;}
+    .manifesto_sec {
+    padding-top: 0;
+}
+    .quote_sec .team_wra .block{ margin-top: 30px;}
+    .counter_i_sec .counter_block{margin-top: 30px;}
+    
+       .counter_i_sec {
+    padding-top: 0;
+}
+    .case_sec {
+    padding-top: 0px;
+}
+    .we_do_sec.inner_p {
+    margin-bottom: 60px;
+}
     .client_sec .map_img{ margin-top: 20px;}
     .we_do_sec .write_block {
     margin: 60px 0 0 0;
@@ -41,13 +57,32 @@
     
     footer h2{ font-size: 18px;}
     footer .social_icons li{ margin: 5px 5px 5px 0;}
-    .section{ padding: 60px 0;}
+    
     .contact_page .contact_info{ margin-bottom: 30px; height: auto;}
     .gallery_sec .block img{ height: 110px;}
     .service_sec_inner .services_block .image_b img{height: 140px;}
 	
 }
 @media only screen and (max-width: 767px) {
+    .sm_m_t_30{ margin-top: 30px;}
+    
+    .blog_wra .r_block .image_g{ margin: 0 0 20px 0;}
+    .ani_top_wra p{ padding: 0 0;}
+    .ani_top_wra .ser_b .top_b_1{ margin-top: 30px;}
+    .ani_top_wra .ser_b{ margin: 0;}
+    .ani_wra .r_block .right{ padding-left: 15px;}
+    .ani_wra .r_block .left{ padding-right: 15px;}
+    .ani_wra .r_block:nth-child(2n+2) .right {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+    .ani_wra .r_block:nth-child(2n+2) .left {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+    .social_wra .r_block  .image_g{ margin: 0 0 30px 0;}
+    .social_wra .r_block:nth-child(2n+1) .image_g {margin: 30px 0 0 0; }
+    
     .we_do_sec .what_box{padding: 40px 25px;}
     .client_sec .map_img{ height: auto;}
     .features_sec .fe_block {
@@ -137,6 +172,15 @@ header .top-section .right li .address-links a.login_o{ display:none;}
 }
 
 @media only screen and (max-width: 576px) {
+    .manifesto_sec .t_text{ padding: 0 0;}
+    .manifesto_sec .im_block{ margin-top: 30px;}
+    .social_wra .r_block{ padding: 20px 20px;}
+    .container-fluid {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+    
+    
     .home_banner .carousel-caption .heading{ font-size: 40px;} 
     .testimonial_sec .shape,.about_sec .shape{ display: none;}
     .image_about::before{ display: none;}
@@ -151,6 +195,21 @@ header .top-section .right li .address-links a.login_o{ display:none;}
 
 
 @media only screen and (max-width: 480px) {
+    .wedding_in_sec .wedding_wra .top {
+    padding: 0 0%;
+    text-align: center;
+}
+    .client_spe_b .block{ text-align: center;}
+    .client_spe_b .block .image{ float: none; display: inline-block;}
+    .client_spe_b .block .t_block {
+    padding: 15px 0 0 0px;
+}
+    
+    
+    .ani_wra .r_block .social_text{ padding: 20px 20px;}
+    .we_do_sec.inner_p {
+    margin-bottom: 40px;
+}
     .we_do_sec .write_block .write::after{width: 40px; border-radius: 42px;}
     .we_do_sec .write_block .write{font-size: 17px;line-height: 45px;
 height: 50px;padding-left: 51px; border-radius: 40px}
@@ -221,6 +280,10 @@ border-radius: 4px;}
     .fe_block .text_block {
     padding: 0 0 0 72px;
 }
+    .counter_i_sec {
+    padding-top: 0;
+}
+    .quote_sec .quot_t{ padding: 0 0;}
 	
 }
 
