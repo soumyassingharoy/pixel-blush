@@ -1424,3 +1424,32 @@ padding: 0 8%;}
 
 
 
+
+.home-video-banner{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    text-decoration: none;
+}
+.home-video-banner video{
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+}
+
+.home-video-banner video::-internal-media-controls-download-button {
+  display:none;
+ }
+
+.home-video-banner video::-webkit-media-controls-enclosure {
+      overflow:hidden;
+ }
+
+.home-video-banner video::-webkit-media-controls-panel {
+      width: calc(100% + 30px); 
+ }
