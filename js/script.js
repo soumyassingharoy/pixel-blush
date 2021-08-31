@@ -22,10 +22,7 @@
 
 });
          
-              
-              
-        
-         
+                    
        
     });
 
@@ -67,7 +64,53 @@ $(document).ready(function(){
          	} 
          });
     
+
     
+    $('.workimage-slider').owlCarousel({
+          loop:true,
+          margin:10,
+          nav:false,
+          autoplay:true,
+          responsive:{
+            0:{
+              items:1
+            },
+            480:{
+              items:1
+            },
+            600:{
+              items:1
+            },
+            1000:{
+              items:1
+            }
+          } 
+         });
+
+
+    $('.workvideo-slider').owlCarousel({
+          loop:true,
+          margin:0,
+          nav:false,
+          autoplay:false,
+          responsive:{
+            0:{
+              items:1
+            },
+            480:{
+              items:1
+            },
+            600:{
+              items:1
+            },
+            1000:{
+              items:1
+            }
+          } 
+         });
+
+   
+
   
     
     
@@ -96,13 +139,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     
     
-              
-               
-              
-    
-    
-    
-    
+          
     
     $("#respMenu").aceResponsiveMenu({
                  resizeWidth: '767', // Set the same in Media query       
